@@ -1,0 +1,2 @@
+1920x1080 Çözünürlüğü için kodlanmıştır
+Sayfadaki elementlerin yerleri dağınık gelirse monitör çözünürlüğünüzden kaynaklıdır
